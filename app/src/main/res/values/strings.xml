@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyJetpackCompose</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_volume">VolumeActivity</string>
+    <string name="title_activity_payment">PaymentActivity</string>
+    <string name="title_activity_main_latihan">MainLatihanActivity</string>
+</resources>
