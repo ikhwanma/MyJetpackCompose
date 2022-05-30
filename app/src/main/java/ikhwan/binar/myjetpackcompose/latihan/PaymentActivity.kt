@@ -69,7 +69,6 @@ fun Greeting4() {
 
         Button(onClick = {
             val s = bayar.toInt() - total.toInt()
-            if ()
             sisa = s.toString()
         }, modifier = Modifier.fillMaxWidth()) {
             Text(text = "Hitung Volume")
